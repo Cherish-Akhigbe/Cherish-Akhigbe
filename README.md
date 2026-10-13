@@ -1,6 +1,6 @@
 # Hi, I'm Cherish 👋
 
-Aspiring Data Scientist passionate about using data to solve real-world problems. I'm currently strengthening my foundations in data science, with a growing focus on Machine Learning.
+Aspiring Data Scientist passionate about using data to solve real world problems. I'm currently strengthening my foundations in data science, with a growing focus on Machine Learning.
 
 ### 👩🏽‍💻 What I'm Learning
 - Python for Data Science
